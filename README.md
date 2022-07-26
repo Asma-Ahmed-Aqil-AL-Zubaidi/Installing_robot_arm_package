@@ -35,9 +35,8 @@ source ~/.bashrc
 Now we can launch RIVz by this command:
 
 roslaunch robot_arm_pkg check_motors.launch
+![180818486-e64991f2-23d6-4048-aef3-98b03b8e31b0](https://user-images.githubusercontent.com/108140215/180966784-84f0e403-1331-4674-afa9-3ba44899a8f2.png)
 
-https://user-images.githubusercontent.com/80279479/180818486-e64991f2-23d6-4048-aef3-98b03b8e31b0.png![image](https://user-images.githubusercontent.com/108140215/180965369-7d783c56-fc68-4471-ad10-b1d93c485723.png)
-https://user-images.githubusercontent.com/80279479/180818486-e64991f2-23d6-4048-aef3-98b03b8e31b0.png![image](https://user-images.githubusercontent.com/108140215/180965714-f8ed6a58-daf0-49f9-bd0d-14ec77729457.png)
 
 
 #common mission
